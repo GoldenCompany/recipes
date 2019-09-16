@@ -1,4 +1,7 @@
 {
+    "aliases": [
+        "symfony/security-bundle"
+    ],
     "bundles": {
         "GoldenCompany\\UserBundle\\UserBundle": ["all"]
     },
