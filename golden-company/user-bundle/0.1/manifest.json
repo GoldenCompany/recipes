@@ -1,14 +1,11 @@
 {
     "aliases": [
-        "security"
+        "security", "symfony/security-bundle"
     ],
     "bundles": {
         "GoldenCompany\\UserBundle\\UserBundle": ["all"]
     },
     "copy-from-recipe": {
         "config/": "%CONFIG_DIR%/"
-    },
-    "env": {
-        "TEST": "test"
     }
 }
