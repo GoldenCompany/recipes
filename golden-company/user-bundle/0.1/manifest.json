@@ -1,6 +1,6 @@
 {
     "aliases": [
-        "symfony/security-bundle"
+        "security"
     ],
     "bundles": {
         "GoldenCompany\\UserBundle\\UserBundle": ["all"]
