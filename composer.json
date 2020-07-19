@@ -1,0 +1,5 @@
+{
+    "extra": {
+        "docker-dir": "docker/"
+    }
+}
