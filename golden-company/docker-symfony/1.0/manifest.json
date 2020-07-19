@@ -1,6 +1,6 @@
 {
     "copy-from-package": {
-        "docker/": "%DOCKER_DIR%/",
+        "docker/": "docker/",
         ".dockerignore": ".dockerignore"
     }
 }
