@@ -1,4 +1,7 @@
 {
+    "extra": {
+        "docker-dir": "docker/"
+    },
     "copy-from-package": {
         "docker/": "%DOCKER_DIR%/",
         ".dockerignore": ".dockerignore"
