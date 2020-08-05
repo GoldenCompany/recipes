@@ -1,6 +1,7 @@
 {
     "copy-from-package": {
         "docker/": "docker/",
-        ".dockerignore": ".dockerignore"
+        ".dockerignore": ".dockerignore",
+        ".gitlab-ci.tpl": ".gitlab-ci.yml"
     }
 }
