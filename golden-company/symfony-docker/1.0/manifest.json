@@ -3,5 +3,8 @@
         "docker/": "docker/",
         ".dockerignore": ".dockerignore",
         ".gitlab-ci.tpl": ".gitlab-ci.yml"
-    }
+    },
+    "gitignore": [
+        "auth.json"
+    ]
 }
